@@ -1,17 +1,39 @@
-# Hi 👋 My name is Sougata Nandi
+<div align="center">
 
-### AI/ML Engineer in the Making | Building Intelligent Systems & Real-World Solutions 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sougata+Nandi;AI%2FML+Engineer+in+the+Making;Backend+Developer;Building+Things+That+Actually+Work+%F0%9F%9A%80" alt="Typing SVG" />
 
-I'm a B.Tech Computer Science & Engineering (AI/ML) student passionate about building intelligent systems and solving real-world problems through technology. I enjoy working with Machine Learning, Artificial Intelligence, Python, backend development, and data-driven applications.
+<br>
 
-I'm currently exploring the intersection of AI, ML, and software engineering while continuously improving my skills through projects, hackathons, and hands-on experimentation.
+<a href="https://github.com/sougatanandi2007-maker">
+<img src="https://komarev.com/ghpvc/?username=sougatanandi2007-maker&label=Profile%20Views&color=0891b2&style=flat-square" />
+</a>
 
-I love turning ideas into working prototypes, learning new technologies, and building projects that have practical impact. Always learning, always building, and always looking for the next challenge. 🚀🤖
+</div>
 
-- 🌍 I'm based in India
-- ✉️ You can contact me at **sougata.nandi2007@gmail.com**
+---
 
-### 🧠 I'm currently learning
+## 👨‍💻 About Me
+
+I'm a B.Tech Computer Science & Engineering (AI/ML) student who enjoys building things with code and figuring out how they work behind the scenes.
+
+My main interests are **Artificial Intelligence, Machine Learning, Backend Development, APIs, and data-driven applications**. I enjoy taking an idea, turning it into a working prototype, and learning from everything that breaks along the way.
+
+Currently focused on becoming stronger at backend engineering while continuing to explore AI/ML and building practical projects.
+
+---
+
+## 🚀 Currently Working On
+
+- 🤖 AI/ML projects and intelligent applications
+- 🧠 Machine Learning models for real-world prediction
+- ⚙️ Backend development and REST APIs
+- 🔌 Integrating ML models into backend applications
+- 🔬 Data processing and predictive systems
+- 🚀 Experimental projects and hackathon ideas
+
+---
+
+## 📚 Currently Learning
 
 - 🐍 Advanced Python & Backend Development
 - ⚡ FastAPI & REST API Development
@@ -21,112 +43,135 @@ I love turning ideas into working prototypes, learning new technologies, and bui
 - 🧠 Data Structures & Algorithms
 - ☁️ Cloud & DevOps Fundamentals
 
-### 👥 I'm open to collaborating on
+---
 
-- 🤖 AI/ML projects and intelligent applications
-- ⚙️ Backend development and REST API projects
-- 🧠 Machine Learning model development and deployment
-- 🔬 Data-driven and predictive systems
-- 🚀 Hackathon projects and innovative tech ideas
-- 💡 Open-source projects that solve real-world problems
+## 🤝 Open To Collaborate On
 
-### 💬 Ask me about
-
-- 🐍 Python and backend development
-- ⚡ FastAPI and REST APIs
-- 🤖 Machine Learning and AI
-- 🗄️ MongoDB and databases
-- 🚀 ML model deployment
-- 💻 C, Java and programming fundamentals
-- 🧩 Building real-world projects and prototypes
-
-### ⚡ Anything else
-
-- 🌱 Always learning, building, and experimenting
-- 💡 I enjoy turning ideas into real, working projects
-- 🧩 I love solving problems and exploring new technologies
-- 🚀 Open to new ideas, collaborations, and challenges
-- ☕ Powered by curiosity, code, and a little caffeine
+- 🤖 AI/ML projects
+- ⚙️ Backend & REST API projects
+- 🧠 Machine Learning applications
+- 🔬 Data-driven systems
+- 🚀 Hackathon projects
+- 💡 Open-source projects
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36"/>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="36" height="36"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36"/>
-  </a>
-  <a href="https://render.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36"/>
-  </a>
+<p align="center">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+</a>
+
+<a href="https://en.cppreference.com/w/c">
+<img src="https://skillicons.dev/icons?i=c" width="55"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/">
+<img src="https://skillicons.dev/icons?i=flask" width="55"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+
+<a href="https://render.com/">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
+
 </p>
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/sougatanandi2007-maker" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sougata-nandi-483b45401" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/reozaky___sn" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram"/>
-  </a>
+<p align="center">
+
+<a href="https://github.com/sougatanandi2007-maker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sougata-nandi-483b45401">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/reozaky___sn">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:sougata.nandi2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sougatanandi2007-maker&show_icons=true&count_private=true&hide_border=true" alt="Sougata's GitHub Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sougatanandi2007-maker&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sougatanandi2007-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougatanandi2007-maker&layout=compact&langs_count=10&hide_border=true" alt="Top Languages"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sougatanandi2007-maker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sougatanandi2007-maker&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🚀 Let's Build Something Great
+## 🐍 My Contributions
 
-<p align="center">
-  <i>Always learning. Always building. Always improving. 🚀</i>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sougatanandi2007-maker/sougatanandi2007-maker/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## ⚡ A Little More About Me
+
+```text
+🌱 Always learning
+🧠 Always experimenting
+💻 Always building
+🔍 Always curious about how things work
+🚀 Always looking for the next challenge
+☕ Occasionally powered by caffeine
